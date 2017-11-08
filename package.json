@@ -1,0 +1,23 @@
+{
+  "name": "bigbrother",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenthirtyone/bigbrother.git"
+  },
+  "author": "alex sherbuck",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/tenthirtyone/bigbrother/issues"
+  },
+  "homepage": "https://github.com/tenthirtyone/bigbrother#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "twitter": "^1.7.1"
+  }
+}
